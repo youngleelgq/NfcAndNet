@@ -3,4 +3,9 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <!--Toast相关-->
+    <color name="bg_main_new">#018fcf</color>
+    <color name="bg_blue">#0595e6</color>
+    <color name="white">#fff</color>
 </resources>
